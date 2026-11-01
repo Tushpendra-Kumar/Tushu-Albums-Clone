@@ -1,3 +1,4 @@
+/* Powered by CodeByTushu | Developed by Tushpendra Kumar | https://codebytushu.com */
 document.addEventListener('DOMContentLoaded', () => {
     const albums = document.querySelectorAll('.album');
   
